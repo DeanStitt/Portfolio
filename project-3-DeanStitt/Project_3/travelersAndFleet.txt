@@ -1,0 +1,87 @@
+p
+Lupe Fiasco
+MARS
+FIRST
+12345
+p
+Drake
+EARTH
+COACH
+10000
+p
+Dave Matthews
+MARS
+BUSINESS
+1345
+p
+Peter Cetera
+EARTH
+COACH
+41235
+p
+Roy Orbison
+BELT
+BUSINESS
+24318
+p
+Dirks Bentley
+RING
+COACH
+345
+c
+Notorious B.I.G
+BELT
+Captain
+9724
+c
+George Strait
+RING
+Co-pilot
+1398
+c
+Ringo Starr
+RING
+Captain
+8348
+c
+Eddie Vedder
+MARS
+Co-pilot
+1832
+-----
+USS Chicago
+MARS
+EARTH
+2
+328
+USS Louisville
+BELT
+RING
+3
+127
+-----
+4
+1
+USS Chicago
+Lupe Fiasco
+1
+USS Chicago
+Peter Cetera
+1
+USS Chicago
+Eddie Vedder
+2
+USS Chicago
+Peter Cetera
+2
+USS Chicago
+Lupe Fiasco
+5
+USS Chicago
+3
+USS Chicago
+5
+USS Chicago
+4
+6
+

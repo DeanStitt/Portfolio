@@ -1,0 +1,27 @@
+Caron Devers has a course average of 92 - PASS
+Kylie Whitham has a course average of 74 - PASS
+Tami Davenport has a course average of 85 - FAIL due to not meeting scholarship minimum of 90
+Invalid score of 110 for In Desilets
+Roma Skelton has a course average of 69 - PASS
+Diana Barletta has a course average of 95 - PASS
+Debroah Darrell has a course average of 49 - FAIL
+Marcelina Mccain has a course average of 93 - PASS
+Shirely Gisi has a course average of 79 - PASS
+Monique Montesdeoca has a course average of 82 - FAIL due to not meeting scholarship minimum of 90
+Invalid score of -3 for Shana Harrill
+Luigi Botello has a course average of 67 - PASS
+Heidy Filippi has a course average of 92 - PASS
+Nadine Broadnax has a course average of 31 - FAIL
+Olen Brand has a course average of 90 - PASS
+Nancee Farnsworth has a course average of 74 - PASS
+Valentine Lamontagne has a course average of 87 - PASS
+Sherley Slinkard has a course average of 76 - PASS
+Lovie Peppler has a course average of 65 - PASS
+Carlota Peltz has a course average of 77 - PASS
+Professor Fancy-Pants has a course average of 100 - PASS
+  	  	  	  	  	  	  	  *	  	  *	
+  	  	  	  	  	  	  	  *	  	  *	
+  	  	  	  	  	  	  *	  *	  *	  *	
+  	  	  	  	  	  	  *	  *	  *	  *	
+  	  *	  *	  *	  *	  	  *	  *	  *	  *	
+0	10	20	30	40	50	60	70	80	90	100	

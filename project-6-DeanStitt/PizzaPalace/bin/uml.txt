@@ -1,0 +1,7 @@
+PreUML and PostUML are similar both have like methods and variables. The differences are within the code, 
+added variables for calculations, group buttons ect. without coding the uml is difficult to configure.
+The lack of reading through the whole document plagued the assignment, but the final draft meets the requirements of classes
+for each panel and order calculation. Without working through the code and testing different cases the ability to write the 
+entire program in one uml is unlikely. The separate classes implemented after show the difference in good OOP and 
+"cowboy style coding" as Dr.Eddy says. The missed variables and button grouping show the lack of experience with planning.
+The method calls and added code are required to implement the code within the private classes. 
