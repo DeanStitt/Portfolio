@@ -1,0 +1,11 @@
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+C:\Users\deans\source\repos\CIS 199 Labs\Lab1solution\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
